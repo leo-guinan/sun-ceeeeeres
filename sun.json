@@ -1,0 +1,382 @@
+{
+  "id": "sun-ceeeeeres",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@ceeeeeres Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_da26565f384f",
+    "display_name": "ceeeeeres",
+    "user_id": "@ceeeeeres",
+    "description": "Community Archive-derived proof-of-search sun for @ceeeeeres.",
+    "document_count": 4473,
+    "word_count": 76377,
+    "active_days": 197,
+    "emissions": [
+      "Really",
+      "Dobjormin",
+      "Testaccountoki",
+      "Time",
+      "Think",
+      "Every"
+    ],
+    "generated_at": "2026-06-27T15:41:08.977970+00:00",
+    "color": "#f59e0b",
+    "mass": 11.243
+  },
+  "planets": [
+    {
+      "id": "planet_ce33c7aa03d2",
+      "name": "Really",
+      "summary": "Archive cluster around really: 3526 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "going",
+        "love",
+        "good",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_59e7761351b5",
+          "title": "Really receipt from 2023-09-04",
+          "excerpt": "@jestingtime that \"(non-violent)\" is trying so hard",
+          "source_document_id": "1698788922728522063",
+          "timestamp": "2023-09-04T20:03:35+00:00",
+          "url": "https://x.com/ceeeeeres/status/1698788922728522063",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, going, love, good."
+        },
+        {
+          "id": "art_d2d0e51b637e",
+          "title": "Really receipt from 2023-09-10",
+          "excerpt": "@mikecorrcircus @GRITCULT looks like iced tea",
+          "source_document_id": "1700979685705077102",
+          "timestamp": "2023-09-10T21:08:54+00:00",
+          "url": "https://x.com/ceeeeeres/status/1700979685705077102",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, going, love, good."
+        },
+        {
+          "id": "art_6aef66787ddd",
+          "title": "Really receipt from 2023-12-20",
+          "excerpt": "@laz_radic the end of the world is when people on a social network discover stephen king",
+          "source_document_id": "1737515831645646859",
+          "timestamp": "2023-12-20T16:50:30+00:00",
+          "url": "https://x.com/ceeeeeres/status/1737515831645646859",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, going, love, good."
+        },
+        {
+          "id": "art_21fd552c3130",
+          "title": "Really receipt from 2023-11-25",
+          "excerpt": "@coldhealing fortnite, boobs, women. AMEN KING",
+          "source_document_id": "1728510349396381701",
+          "timestamp": "2023-11-25T20:25:56+00:00",
+          "url": "https://x.com/ceeeeeres/status/1728510349396381701",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, going, love, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_99cd7d950fb5",
+      "proof_score": 1,
+      "mass": 32.957,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_6ebd70472c3a",
+      "name": "Dobjormin",
+      "summary": "Archive cluster around dobjormin: 286 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "dobjormin",
+        "good",
+        "testaccountoki",
+        "little",
+        "going"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c64d773a3ad6",
+          "title": "Dobjormin receipt from 2024-01-07",
+          "excerpt": "@dobjormin hey dobbs heres some tips:\n\nYour plant might have too much or too little light\nYour plant might have too much or too little water\nYour plant might just hate you",
+          "source_document_id": "1743813535736402188",
+          "timestamp": "2024-01-07T01:55:20+00:00",
+          "url": "https://x.com/ceeeeeres/status/1743813535736402188",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: dobjormin, good, testaccountoki, little."
+        },
+        {
+          "id": "art_610f43abd24e",
+          "title": "Dobjormin receipt from 2023-10-12",
+          "excerpt": "@dobjormin you know he's cool because he doesnt use capitalization",
+          "source_document_id": "1712476741200183582",
+          "timestamp": "2023-10-12T14:34:06+00:00",
+          "url": "https://x.com/ceeeeeres/status/1712476741200183582",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: dobjormin, good, testaccountoki, little."
+        },
+        {
+          "id": "art_d51c78d1350e",
+          "title": "Dobjormin receipt from 2024-02-11",
+          "excerpt": "@dobjormin GM welcome to the new gc",
+          "source_document_id": "1756592966645277060",
+          "timestamp": "2024-02-11T08:16:13+00:00",
+          "url": "https://x.com/ceeeeeres/status/1756592966645277060",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: dobjormin, good, testaccountoki, little."
+        },
+        {
+          "id": "art_6203890173c0",
+          "title": "Dobjormin receipt from 2024-01-24",
+          "excerpt": "@dobjormin penis feet",
+          "source_document_id": "1749951874415911067",
+          "timestamp": "2024-01-24T00:26:54+00:00",
+          "url": "https://x.com/ceeeeeres/status/1749951874415911067",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: dobjormin, good, testaccountoki, little."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f011fb2d7ee4",
+      "proof_score": 0.916,
+      "mass": 23.821,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_1d09123e644a",
+      "name": "Testaccountoki",
+      "summary": "Archive cluster around testaccountoki: 253 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "testaccountoki",
+        "alex",
+        "want",
+        "time",
+        "think"
+      ],
+      "artifacts": [
+        {
+          "id": "art_18a45f8f7243",
+          "title": "Testaccountoki receipt from 2023-12-20",
+          "excerpt": "@testaccountoki I'm usually a plane guy but every I time I see this I feel things https://t.co/5IBOazgZ8G",
+          "source_document_id": "1737516583789170943",
+          "timestamp": "2023-12-20T16:53:29+00:00",
+          "url": "https://x.com/ceeeeeres/status/1737516583789170943",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: testaccountoki, alex, want, time."
+        },
+        {
+          "id": "art_abe84b3ac30e",
+          "title": "Testaccountoki receipt from 2023-12-14",
+          "excerpt": "@testaccountoki J L J L J L J L J L J L J L J L J L J L J L",
+          "source_document_id": "1735400463175221410",
+          "timestamp": "2023-12-14T20:44:47+00:00",
+          "url": "https://x.com/ceeeeeres/status/1735400463175221410",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: testaccountoki, alex, want, time."
+        },
+        {
+          "id": "art_477387e0adc2",
+          "title": "Testaccountoki receipt from 2024-01-27",
+          "excerpt": "@testaccountoki its kinda crazy how you can literally learn everything from every coding textbook by just building shit instead of buying the textbook",
+          "source_document_id": "1751364664426901905",
+          "timestamp": "2024-01-27T22:00:49+00:00",
+          "url": "https://x.com/ceeeeeres/status/1751364664426901905",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: testaccountoki, alex, want, time."
+        },
+        {
+          "id": "art_36db32d58109",
+          "title": "Testaccountoki receipt from 2024-01-05",
+          "excerpt": "@testaccountoki @RickRubin the double cock snare sticks is a great design decision",
+          "source_document_id": "1743414524315947351",
+          "timestamp": "2024-01-05T23:29:48+00:00",
+          "url": "https://x.com/ceeeeeres/status/1743414524315947351",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: testaccountoki, alex, want, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_cf7106977a26",
+      "proof_score": 0.904,
+      "mass": 23.854,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_7cc47252172b",
+      "name": "Time",
+      "summary": "Archive cluster around time: 175 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "first",
+        "going",
+        "life"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5765d40e0267",
+          "title": "Time receipt from 2024-01-09",
+          "excerpt": "@jack24dd30 every time i use this on iphone i get angry that its only half a face",
+          "source_document_id": "1744759366782193686",
+          "timestamp": "2024-01-09T16:33:43+00:00",
+          "url": "https://x.com/ceeeeeres/status/1744759366782193686",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, going."
+        },
+        {
+          "id": "art_c3bdb84fd7fc",
+          "title": "Time receipt from 2024-02-11",
+          "excerpt": "shouting \"who's alt is this?\" every time I see an account with less than 100 followers",
+          "source_document_id": "1756823689964728593",
+          "timestamp": "2024-02-11T23:33:02+00:00",
+          "url": "https://x.com/ceeeeeres/status/1756823689964728593",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, going."
+        },
+        {
+          "id": "art_c567bfc72316",
+          "title": "Time receipt from 2023-12-27",
+          "excerpt": "@jeremykauffman Had an ex who would adjust the timers on the Christmas tree lights to the smallest time possible because she didn’t like paying for the electricity :(",
+          "source_document_id": "1740085353774821508",
+          "timestamp": "2023-12-27T19:00:52+00:00",
+          "url": "https://x.com/ceeeeeres/status/1740085353774821508",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, going."
+        },
+        {
+          "id": "art_228dd1a19c05",
+          "title": "Time receipt from 2023-09-27",
+          "excerpt": "@BrennanColberg its only a matter of time before someone writes an article like \"Elon Musk kills millions of organisms as he selfishly washes his hands with hand sanitizer. When will the SEC step in?!?!\"",
+          "source_document_id": "1707059382188741111",
+          "timestamp": "2023-09-27T15:47:27+00:00",
+          "url": "https://x.com/ceeeeeres/status/1707059382188741111",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, going."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_887abed3517a",
+      "proof_score": 0.867,
+      "mass": 25.659,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_c7f0972d45f0",
+      "name": "Think",
+      "summary": "Archive cluster around think: 138 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "going",
+        "thing",
+        "don",
+        "actually"
+      ],
+      "artifacts": [
+        {
+          "id": "art_87d98d064793",
+          "title": "Think receipt from 2023-10-04",
+          "excerpt": "@Braingetter The secret third thing doesn’t even think about these guys",
+          "source_document_id": "1709376221304455605",
+          "timestamp": "2023-10-04T01:13:44+00:00",
+          "url": "https://x.com/ceeeeeres/status/1709376221304455605",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, going, thing, don."
+        },
+        {
+          "id": "art_879babfdcd4c",
+          "title": "Think receipt from 2024-01-26",
+          "excerpt": "@Liv_Agar bi guys will see this and think \"hell yeah\"",
+          "source_document_id": "1750998088087400548",
+          "timestamp": "2024-01-26T21:44:10+00:00",
+          "url": "https://x.com/ceeeeeres/status/1750998088087400548",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, going, thing, don."
+        },
+        {
+          "id": "art_1f1d4fd93b26",
+          "title": "Think receipt from 2024-01-14",
+          "excerpt": "@DeepDishEnjoyer noooo you havent thought about inflation, nooo think about the taxes, you probably cant even buy a house with 10m",
+          "source_document_id": "1746591365188751645",
+          "timestamp": "2024-01-14T17:53:26+00:00",
+          "url": "https://x.com/ceeeeeres/status/1746591365188751645",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, going, thing, don."
+        },
+        {
+          "id": "art_c19a784be9fb",
+          "title": "Think receipt from 2024-02-09",
+          "excerpt": "Don’t google anything. Don’t think. What animal is this? https://t.co/avUXhCElJN",
+          "source_document_id": "1756070389942304941",
+          "timestamp": "2024-02-09T21:39:41+00:00",
+          "url": "https://x.com/ceeeeeres/status/1756070389942304941",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, going, thing, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_46dbb50706b8",
+      "proof_score": 0.843,
+      "mass": 24.858,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_0e1a56b5b4f9",
+      "name": "Every",
+      "summary": "Archive cluster around every: 95 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "every",
+        "post",
+        "day",
+        "game",
+        "single"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4e23b717722b",
+          "title": "Every receipt from 2023-09-21",
+          "excerpt": "guy (me) who likes every post with 0 likes on the TL regardless of content",
+          "source_document_id": "1704947075535007744",
+          "timestamp": "2023-09-21T19:53:53+00:00",
+          "url": "https://x.com/ceeeeeres/status/1704947075535007744",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: every, post, day, game."
+        },
+        {
+          "id": "art_61c350385578",
+          "title": "Every receipt from 2024-02-06",
+          "excerpt": "Not every post is a banger, but every banger is a post.",
+          "source_document_id": "1754783892848947268",
+          "timestamp": "2024-02-06T08:27:37+00:00",
+          "url": "https://x.com/ceeeeeres/status/1754783892848947268",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: every, post, day, game."
+        },
+        {
+          "id": "art_bca25a44b277",
+          "title": "Every receipt from 2024-01-27",
+          "excerpt": "slowly coming to terms with the fact that every tweet on the platform is just a silly reference to the real content happening in group chats",
+          "source_document_id": "1751374078496194601",
+          "timestamp": "2024-01-27T22:38:13+00:00",
+          "url": "https://x.com/ceeeeeres/status/1751374078496194601",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: every, post, day, game."
+        },
+        {
+          "id": "art_90a20cb7b6a7",
+          "title": "Every receipt from 2024-01-27",
+          "excerpt": "for every like I will add a random adjective https://t.co/VM5IgxJO55",
+          "source_document_id": "1751364114746683845",
+          "timestamp": "2024-01-27T21:58:38+00:00",
+          "url": "https://x.com/ceeeeeres/status/1751364114746683845",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: every, post, day, game."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0ec63dc65018",
+      "proof_score": 0.806,
+      "mass": 23.548,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
